@@ -1,9 +1,9 @@
 
 ## 🚀 Sobre mim
 
-Olá! Me chamo Gabriel, sou Desenvolvedor Fullstack com foco principal em backend com C#/.NET e Python, além de conhecimento em frontend com Next.js. Atualmente curso Engenharia da Computação e sou egresso do curso técnico de Desenvolvimento Fullstack no Serratec.
+Olá! Me chamo Gabriel, sou Desenvolvedor Fullstack com foco principal em backend com C#/.NET e Python, além de conhecimento em frontend com Next.js. Sou formado no curso técnico de Desenvolvimento Fullstack pelo Serratec e atualmente curso Engenharia da Computação. Complemento minha formação com os cursos da Harvard (CS50), com foco em ciência da computação, programação com Python e inteligência artificial.
 
-Tenho interesse em desenvolvimento de sistemas web, APIs escaláveis e aplicações com Inteligência Artificial. Todos os dias busco aprender algo novo e construir soluções bem estruturadas, eficientes e com propósito.
+Tenho interesse em desenvolvimento de sistemas web, APIs escaláveis e aplicações com IA. Todos os dias busco aprender algo novo e construir soluções bem estruturadas, eficientes e com propósito.
 
 
 
