@@ -14,4 +14,4 @@ Tenho interesse em desenvolvimento de sistemas , APIs, análise de dados e aplic
 
 
 ## 🛠 Habilidades
-Python, Pandas, MatplotLib, Seaborn, PostgreSQL, Java, Spring, HTML, CSS, Javascript.
+Python, Pandas, MatplotLib, Seaborn, PostgreSQL, Java, Spring, Node.js, Javascript, C#, .NET, Html, Css.
