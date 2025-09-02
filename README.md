@@ -13,4 +13,4 @@ Trabalho atualmente na área de Desenvolvimento Fullstack, com foco em backend.
 
 
 ## 🛠 Habilidades
-Python, PostgreSQL, MySQL, Java, Spring, Node.js, Javascript, C#, .NET, HTML, CSS, React, Next.js.
+Python, Node.js, Javascript, PostgreSQL, MySQL, C#, .NET, Java, Spring, HTML, CSS, React, Next.js.
