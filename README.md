@@ -14,7 +14,7 @@ Minha base técnica foi forjada na engenharia de software e arquitetura de backe
 
 - ## 🔗 Conecte-se comigo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-cruz-7536641bb)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cruz-7536641bb/)
 
 ---
 
