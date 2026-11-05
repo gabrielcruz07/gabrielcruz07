@@ -2,35 +2,37 @@
 ## 🚀 Sobre mim
 
 Olá! Sou o Gabriel Cruz 👋
+Atuo na área de Ciência de Dados com foco em Engenharia de Machine Learning (MLE).
 
-Atuo com **Ciência de Dados** e **Inteligência Artificial**, com foco em **Engenharia de Machine Learning (MLE)**. 
+Minha trajetória combina o rigor da Ciência de Dados com a base estrutural da Engenharia de Software. Direciono meu trabalho e meus estudos para o ciclo completo de Machine Learning: desde a Análise Exploratória de Dados (EDA) e engenharia de features, até a criação, treinamento, avaliação e colocação de modelos estatísticos/preditivos em produção via APIs.
 
-Minha base técnica foi forjada na engenharia de software e arquitetura de backend. Hoje, utilizo essa bagagem estrutural para tirar modelos estatísticos e LLMs do papel e orquestrá-los em produção. Meu foco absoluto é aplicar o ecossistema de dados (Python, SQL) para resolver gargalos complexos de negócios, otimizar operações logísticas e construir aplicações robustas com IA Generativa.
+O que estou construindo e aprimorando no momento:
 
-**O que estou construindo e aprimorando no momento:**
-- 🧠 Integração de Modelos de Linguagem (LLMs) e arquiteturas de Busca Semântica (RAG).
-- 📊 Pipelines de processamento de dados (ETL), limpeza e Análise Exploratória (EDA).
-- ⚙️ Desenvolvimento de APIs para servir modelos analíticos no ecossistema corporativo.
+🧠 Criação & Treinamento de Modelos: Algoritmos preditivos (Supervisionados e Não-Supervisionados) utilizando Scikit-Learn e ecossistema Python.
 
-- ## 🔗 Conecte-se comigo
+📊 Análise & Engenharia de Features: Análise Exploratória de Dados (EDA), limpeza de bases complexas e preparação de variáveis para modelagem.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cruz-7536641bb/)
+⚙️ Operationalization & Serving (MLE): Desenvolvimento de pipelines escaláveis e APIs em FastAPI para servir modelos preditivos no ambiente corporativo.
 
----
+🧮 Fundamentação Teórica & Estatística: Aprofundamento contínuo em matemática, estatística descritiva/inferencial e governança de dados.
 
-## 🛠 Habilidades & Stack Tecnológico
+🛠 Habilidades & Stack Tecnológico
 
-**Ciência de Dados & Inteligência Artificial**
-- Python (Pandas, NumPy, Scikit-Learn)
-- Machine Learning & Estatística
-- Fundamentos de GenAI (LLMs, Embeddings, RAG)
+**Ciência de Dados & Machine Learning**
+
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+- Aprendizado de Máquina (Classificação, Regressão, Clustering)
+- Análise Exploratória de Dados (EDA) & Engenharia de Features
+- Estatística Descritiva e Validação de Modelos (Métricas de Avaliação)
 
 **Engenharia de Dados & Bancos de Dados**
-- SQL Avançado (PostgreSQL, MySQL)
-- Modelagem Relacional & Extração de Dados (ETL)
-- Criação de Dashboards Analíticos
 
-**Engenharia de Software & Backend**
+- SQL Avançado (PostgreSQL, MySQL)
+- Modelagem Relacional & Pipelines de Processamento (ETL)
+- Validação e Garantia de Integridade de Dados
+
+**Engenharia de Software & Infraestrutura**
+
 - Python (FastAPI)
-- Arquitetura RESTful & Lógica de Programação
-- Git, GitHub, Versionamento de Código
+- Modelagem de APIs RESTful & Lógica de Programação
+- Git, GitHub & Versionamento de Código
