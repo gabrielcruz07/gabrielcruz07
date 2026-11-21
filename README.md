@@ -6,6 +6,8 @@ Atuo na área de Ciência de Dados com foco em Engenharia de Machine Learning (M
 
 Minha trajetória combina o rigor da Ciência de Dados com a base estrutural da Engenharia de Software. Direciono meu trabalho e meus estudos para o ciclo completo de Machine Learning: desde a Análise Exploratória de Dados (EDA) e engenharia de features, até a criação, treinamento, avaliação e colocação de modelos estatísticos/preditivos em produção via APIs.
 
+**Foco atual:** refatoração e publicação de arquiteturas end-to-end (ETL em PostgreSQL, modelagem preditiva e serving com FastAPI).
+
 O que estou construindo e aprimorando no momento:
 
 🧠 Criação & Treinamento de Modelos: Algoritmos preditivos (Supervisionados e Não-Supervisionados) utilizando Scikit-Learn e ecossistema Python.
