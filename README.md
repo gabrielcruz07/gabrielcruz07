@@ -20,7 +20,7 @@ O que estou construindo e aprimorando no momento:
 
 **Ciência de Dados & Machine Learning**
 
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn)
 - Aprendizado de Máquina (Classificação, Regressão, Clustering)
 - Análise Exploratória de Dados (EDA) & Engenharia de Features
 - Estatística Descritiva e Validação de Modelos (Métricas de Avaliação)
